@@ -44,7 +44,6 @@ jobs:
     - name: Check Formatting
       run: mix format --check-formatted
 
-jobs:
   deploy:
     name: Deploy app
     env:
