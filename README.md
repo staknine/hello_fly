@@ -1,6 +1,6 @@
 # HelloFly
 
-HelloFly is a demo project for deploying Gigalixir which was selected as the **Best for Phoenix LiveView Apps** in [StakeNine's Best Hosting Providers for Elixir](https://staknine.com/best-cloud-hosting-platforms-elixir-phoenix/?utm_source=github.com&utm_medium=referral&utm_campaign=readme) article.
+HelloFly is a demo project for deploying Fly which was selected as the **Best for Phoenix LiveView Apps** in [StakeNine's Best Hosting Providers for Elixir](https://staknine.com/best-cloud-hosting-platforms-elixir-phoenix/?utm_source=github.com&utm_medium=referral&utm_campaign=readme) article.
 
 To start your Phoenix server:
 
